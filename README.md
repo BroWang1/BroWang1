@@ -5,7 +5,8 @@
 - 📫 How to reach me www.linkedin.com/in/brodey-wang
 
 ![Browang1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Browang1&hide=contribs,prs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Browang1&layout=compact&theme=light)\
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Browang1&layout=compact&theme=light)
 
 <!---
 BroWang1/BroWang1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
