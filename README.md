@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a few ideas AI projects that I have in mind.
 - 📫 How to reach me www.linkedin.com/in/brodey-wang
 - 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Browang1&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Browang1&layout=compact&theme=light)
 
 ![Browang1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Browang1&hide=contribs,prs)
 
