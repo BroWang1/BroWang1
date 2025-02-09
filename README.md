@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a few ideas AI projects that I have in mind.
 - 📫 How to reach me www.linkedin.com/in/brodey-wang
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Browang1_icons=true&theme=dark)
+![Browang1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Browang1&hide=contribs,prs)
 
 <!---
 BroWang1/BroWang1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
