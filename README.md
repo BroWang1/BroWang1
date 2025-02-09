@@ -10,7 +10,7 @@
 
 
 
-![snake gif](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Browang1/Browang1/blob/output/github-contribution-grid-snake.svg)
 
 
 <!---
